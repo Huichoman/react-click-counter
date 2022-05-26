@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-click-counter/static/css/main.140541c2.css",
+    "main.js": "/react-click-counter/static/js/main.92eed047.js",
+    "static/media/rockby-henry.png": "/react-click-counter/static/media/rockby-henry.3a5688743b55532d3294.png",
+    "index.html": "/react-click-counter/index.html",
+    "main.140541c2.css.map": "/react-click-counter/static/css/main.140541c2.css.map",
+    "main.92eed047.js.map": "/react-click-counter/static/js/main.92eed047.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.140541c2.css",
+    "static/js/main.92eed047.js"
+  ]
+}
